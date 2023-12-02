@@ -1,0 +1,7 @@
+database-user_db
+table- users
+
+id (p,nn,Ai) int
+name-  varchar
+email-  varchar
+phoneNumber-  varchar
